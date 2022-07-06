@@ -4,7 +4,7 @@ None of the images are loading
 
 Search engine optimization link doesn’t work
 
-ALL <div> and no <section>
+ALL div and no section
 
 Little to no accessibility, no alt text
 
