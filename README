@@ -1,3 +1,13 @@
 All images are now loading! The brackets were not properly closed.
 
 My next course of action will be to improve accessibility, such as adding alt text to all of the images, and start fixing the broken links I've found so far.
+
+Updates:
+
+Still playing around with terminal and git push, so my READMEs will be a little messy.
+
+Added alt text and fixed the broken internal link. The solution was easier than I thought it would be; no id was set for the Search Engine Optimization link, and all I had to do was add one.
+
+The syntax structure still needs a lot of work, so my next priority will be to restructure all of the div elements into section elements, and reorganize the CSS accordingly. Starting this challenge by reorganizing the starter CSS turned out to be extremely helpful in not only finding these errors, but fixing them efficiently. 
+
+I should add, I decided to bypass changing the div elements into section elements until now because I wanted to prioritize the core functionality over the details. Normally, as an artist, I tend to get caught up in detail, but if your work has no solid foundation, the detail will all be meaningless. This is the mentality I've been going into these projects with.
